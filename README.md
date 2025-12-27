@@ -35,12 +35,14 @@ Optional (for building a bundled exe):
 ## ⚡ Quick Start
 
 1. Clone the repo and open a terminal in the project root.
-
+  ```bash
+  git clone https://github.com/NimaFaghih/Video-Duration-Calculator.git
+  ```
 2. Run the GUI directly:
 
-```bash
-python main.py
-```
+  ```bash
+  python main.py
+  ```
 
 3. Select the folder containing videos and click "Calculate Duration".
 
