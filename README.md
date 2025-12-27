@@ -1,10 +1,10 @@
-# Video Duration Calculator 🎬
+# Video Duration Calculator 
 
 A simple desktop utility to calculate total durations of video files inside folders and optionally rename folders to include their durations. The project separates business logic (video traversal, FFprobe calls, renaming) from the UI, making it easy to test and reuse.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Scan a selected folder recursively for video files (configurable extensions)
 - Use `ffprobe` (FFmpeg) to get accurate video durations (fast and robust)
@@ -18,7 +18,7 @@ A simple desktop utility to calculate total durations of video files inside fold
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 - Python 3.8+
 - FFmpeg (ffprobe must be in your PATH)
@@ -32,7 +32,7 @@ Optional (for building a bundled exe):
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 1. Clone the repo and open a terminal in the project root.
   ```bash
@@ -48,3 +48,8 @@ Optional (for building a bundled exe):
 
 4. To rename folders (optional), click "Rename Folders" and confirm.
 
+## Download
+
+Download the latest version of **Video Duration Calculator** here:
+
+[Download Video Duration Calculator v1.0](https://github.com/NimaFaghih/Video-Duration-Calculator/releases/download/v1.0/VidDurationCalculator.exe)
